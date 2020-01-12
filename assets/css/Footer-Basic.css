@@ -58,3 +58,7 @@
   margin-bottom: 0;
 }
 
+.nav.nav-tabs.shadow-none.sticky-top {
+  border: none;
+}
+
