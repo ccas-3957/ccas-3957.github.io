@@ -60,5 +60,13 @@
 
 .nav.nav-tabs.shadow-none.sticky-top {
   border: none;
+  /*background-color: inherit;*/
+}
+
+img {
+}
+
+#hello {
+  /*position: absolute;*/
 }
 

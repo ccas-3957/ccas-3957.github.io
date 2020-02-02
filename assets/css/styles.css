@@ -1,23 +1,27 @@
 p {
   font-size: 1.25em;
   font-family: 'Helvetica Neue';
-  color: #131c3b;
+  color: black;
   font-size: em;
+  font-weight: 200;
 }
 
 #hello {
   font-size: 3em;
-  margin-left: 20%;
+  margin-left: 5%;
+  font-weight: bold;
 }
 
 #text1 {
   padding-left: 20%;
   /*padding-right: 50%;*/
   font-size: 1.25em;
+  font-weight: 200;
 }
 
 #view {
-  font-family: 'Abhaya Libre';
+  font-family: 'Helvetica Neue';
+  font-weight: bold;
 }
 
 .wrapper {
@@ -26,6 +30,7 @@ p {
 
 #Heading {
   text-align: center;
+  font-weight: Bold;
 }
 
 #content {
